@@ -1,16 +1,40 @@
-# flutter_url_launcher
+# Package of the Week - Url Launcher
 
-A new Flutter project.
+The package helps in redirecting to the following apps
 
-## Getting Started
+## Video
 
-This project is a starting point for a Flutter application.
+Youtube - https://youtu.be/eFJyiCZoJms
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><p align="center">Home Screen</p></td>
+  </tr>
+  <tr>
+    <p align="center">
+    <td valign="top"><img src="Screenshots/main.png"></td>
+    </p>
+  </tr>
+  <tr>
+    <td><p align="center">Phonebook</p></td>
+    <td><p align="center">Messaging</p></td>
+    <td><p align="center">Gmail</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="Screenshots/phone.png"></td>
+    <td valign="top"><img src="Screenshots/sms.png"></td>
+    <td valign="top"><img src="Screenshots/email.png"></td>
+  </tr>
+  <tr>
+    <td><p align="center">Youtube</p></td>
+    <td><p align="center">Browser</p></td>
+    <td><p align="center">WebView</p></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="Screenshots/youtube.png"></td>
+    <td valign="top"><img src="Screenshots/browser.png"></td>
+    <td valign="top"><img src="Screenshots/webview.png"></td>
+  </tr>
+ </table>
